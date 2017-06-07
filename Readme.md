@@ -1,4 +1,4 @@
-Sources will appear here in the next couple of days. Please be patient.
+Sources will appear here when there are a bit less time constraints. Please bear with me.
 
 Awesome City is a sustainable, self-running city on the blockchain in which everyone can own a house and house owners in turn, own the infrastructure of the city.
 
