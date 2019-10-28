@@ -22,13 +22,15 @@ file and include the License file at LICENSE.txt.
 
 Awesome City is an open source concept for an ideal, sustainable, self-organising community (as defined by LushCoin) based on the built in trust of the blockchain, and which finances itself by identifying and building businesses around its talented people. It re-invents the city as an integrated, modular machine for generating wellbeing underlined by AI<br />This repo  is a living addendum to the [LushCoin white paper](https://github.com/Grand-Axe/LushCoin/raw/master/Docs/LushCoinWhitePaper.pdf) as well as a directory of foundational projects, costing/analysis, papers and academic collaboration.
 
+Awesome City's knowledge base will be organised as an ontology based on the [meaning grid](https://github.com/Grand-Axe/Okeuvo-Lite/).
+
 ### Sustainable profit
 
 The LushCoin method measures profit as consisting of several components; primarily impact on wellbeing and dignity; then areas like available skills, research base, regional literacy levels, and finally monetary profit - a holistic graph of every aspect of life that will be impacted by the innovation to be funded.
 
 Compare that to a firm that makes billions in "profit", but whose activities lead to illness and climate change that blights millions. It cannot be said to be truly profitable in any moral or logical sense, except in a predatory model.<br />Sadly, this same predatory model not only limits achievable profit, but drives other predatory impulses like privacy theft and "profit", even if it results in abuses of human dignity such as propagating sweat shops.
 
-How about a system that promotes dignity, wellbeing and knowledge growth, yet has the potential to generate far more revenues than any system in existence today?
+How about a system that promotes dignity, wellbeing and knowledge growth through open source, yet has the potential to generate far more revenues than any system in existence today?
 
 That's what Awesome City is.
 
@@ -50,7 +52,7 @@ The burgeoning bureaucracies of modern day systems cannot react fast enough to b
 
 In order to unroll just compensation for each individuals personal circumstances, graph methods (utilising [OkeuvoLite](https://github.com/Grand-Axe/Okeuvo-Lite) to create a universally unique hash for any concept) will be used to identify gaps and evaluate how various factors contribute to societal growth and wellbeing. 
 
-The strength of this approach will be showcased in (amongst others) for example, strongly identifying women as needing compensation (through weightings, invention and innovation) for their heavy contributions to societal growth and capacity - through childbirth, nurturing and work gaps, as well as having to undergo consequential bodily and mental changes.
+The strength of this approach will be showcased in areas where skills and opportunity are currently thrown away; for example, strongly identifying women as needing compensation (through weightings, invention and innovation) for their heavy contributions to societal growth and capacity (through childbirth, nurturing and work gaps, as well as having to undergo consequential bodily and mental changes).<br />Women are just one example; compensating for similar factors in all affected areas would not only increase the talent pool with those who have been shut out, but will also create its own rich ecosystem of invention and innovation - a win-win.
 
 Awesome City can create money and opportunity from areas that todays economics treats as black holes.
 
@@ -58,13 +60,16 @@ Awesome City can create money and opportunity from areas that todays economics t
 
 The following fundamental rights will be upheld:
 
-1. a medium of trust - the blockchain;
-2. access to knowledge;
-3. just reward for innovation;
-4. a home;
-5. a basic wage;
-6. water and energy self-sufficiency
-7. a liveable climate for all generations.
+1. [dignity](https://en.wikipedia.org/wiki/Dignity);
+2. transactions via a medium of trust - the blockchain;
+3. access to knowledge;
+4. just reward for innovation;
+5. a home;
+6. a basic wage;
+7. water and energy self-sufficiency;
+8. a liveable climate for all generations;
+9. the right have discussions on the direction AI takes;
+10. the right to a binding vote on the direction of AI.
 
 ### Renewables and materials
 
@@ -77,6 +82,8 @@ Sustainable methods would be used to both drive up energy efficiency and for con
 5. high volume extrusion and moulding methods will be preferred for construction, the cost of building will be lowered by utilising recycled materials and alternative composites to extrude whole wall and other house sections, roads and pavements (sidewalks) - complete with piping and wiring for services;
 6. each house will come as a package, with a prefabricated, strongly standardised section of street and sidewalk that belong to the house owner; as well as generating infrastructure as required, this will increase the volume from which a building can share lighting, harvest energy (solar, scavenged etc.) and obtain rents;
 7. services, such as electricity, water and sewage (the extent will vary with locality) will be decentralised - renewable energy, septic tanks and soakaway pits being emphasised.
+8. each building will be self-sufficient in energy;
+9. fast growing carbon sinks such as certain types of algae will be used in cleaning, nutrition, farming and energy cycles;
 
 ### Modularity and infrastructure ownership
 
