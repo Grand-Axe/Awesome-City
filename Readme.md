@@ -61,15 +61,16 @@ Awesome City can create money and opportunity from areas that todays economics t
 The following fundamental rights will be upheld:
 
 1. [dignity](https://en.wikipedia.org/wiki/Dignity);
-2. transactions via a medium of trust - the blockchain;
-3. access to knowledge;
-4. just reward for innovation;
-5. a home;
-6. a basic wage;
-7. water and energy self-sufficiency;
-8. a liveable climate for all generations;
-9. the right have discussions on the direction AI takes;
-10. the right to a binding vote on the direction of AI.
+2. privacy;
+3. transactions via a medium of trust - the blockchain;
+4. access to knowledge;
+5. just reward for innovation;
+6. a home;
+7. a basic wage;
+8. water and energy self-sufficiency;
+9. a liveable climate for all generations;
+10. the right have discussions on the direction AI takes;
+11. the right to a binding vote on the direction of AI.
 
 ### Renewables and materials
 
