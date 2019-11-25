@@ -16,23 +16,28 @@ file and include the License file at LICENSE.txt.
 
 # Awesome City ... change the world
 
-... With fresh thinking powered by AI.
+... With fresh thinking powered by AI.<br />
+
+Awesome City is part of an ecosystem to deliver Artificial General Intelligence in a safe, humane, productive way to all - it is a developmental resource.<br />We have a value system that's based on exploitation and greed, it has only led to various blots in history and todays climate change. How about something radical that's driven by AI and based on dignity, wellbeing and innovation instead?
 
 ![Awesome City home ownership](Images/homeAndInfrastructureOwnership.png?raw=true)
 
-Awesome City is an open source concept for an ideal, sustainable, self-organising community (as defined by LushCoin) based on the built in trust of the blockchain, and which finances itself by identifying and building businesses around its talented people. It re-invents the city as an integrated, modular machine for generating wellbeing underlined by AI<br />This repo  is a living addendum to the [LushCoin white paper](https://github.com/Grand-Axe/LushCoin/raw/master/Docs/LushCoinWhitePaper.pdf) as well as a directory of foundational projects, costing/analysis, papers and academic collaboration.
+<br />Awesome City is an open source concept for an ideal, sustainable, self-organising community based on the built in trust of the blockchain, and which finances itself by harnessing AI to identify and build businesses around its talented people. It re-invents the city as an integrated, modular machine for generating wellbeing underlined by AI<br />This repo  is based on the [LushCoin white paper](https://github.com/Grand-Axe/LushCoin/raw/master/Docs/LushCoinWhitePaper.pdf) as well as being a living addendum to it - **read the LushCoin white paper if you haven't done so yet**. This repo will serve as a tool for consensus on AI governance, it will also be a directory of foundational projects, costing/analysis, papers and academic collaboration.
 
-Awesome City's knowledge base will be organised as an ontology based on the [meaning grid](https://github.com/Grand-Axe/Okeuvo-Lite/).
+Awesome City's knowledge base will be organised as an ontology based on the [meaning grid](https://github.com/Grand-Axe/Okeuvo-Lite/), with each item indexed by its OkeuvoLite hash.
 
 ### Sustainable profit
 
 The LushCoin method measures profit as consisting of several components; primarily impact on wellbeing and dignity; then areas like available skills, research base, regional literacy levels, and finally monetary profit - a holistic graph of every aspect of life that will be impacted by the innovation to be funded.
 
 Compare that to a firm that makes billions in "profit", but whose activities lead to illness and climate change that blights millions. It cannot be said to be truly profitable in any moral or logical sense, except in a predatory model.<br />Sadly, this same predatory model not only limits achievable profit, but drives other predatory impulses like privacy theft and "profit", even if it results in abuses of human dignity such as propagating sweat shops.
+Further, current systems see the employed as part of business costs, rather than viewing the number of people a business can attract to work for it in an open source way as part of its profit.
 
 How about a system that promotes dignity, wellbeing and knowledge growth through open source, yet has the potential to generate far more revenues than any system in existence today?
 
 That's what Awesome City is.
+
+This topic is of vital importance now, because traditional human jobs will shrink as machines become more mainstream. The binary choice is between a future of undignified mass unemployment or rewarding new forms of work in a retuned value system that places the creativity of the human mind as its fungible property. This contrasts with current systems, which are stretched to breaking point by the pace of technological innovation because they are based on things that can be manipulated, such as gold or consumer confidence (this is in turn increasingly influenced by click baiting "outrages", fake news campaigns and other similarly nebulous artifices).  
 
 ### Pick and choose
 
@@ -50,7 +55,9 @@ The burgeoning bureaucracies of modern day systems cannot react fast enough to b
 
 ### Society as a graph
 
-In order to unroll just compensation for each individuals personal circumstances, graph methods (utilising [OkeuvoLite](https://github.com/Grand-Axe/Okeuvo-Lite) to create a universally unique hash for any concept) will be used to identify gaps and evaluate how various factors contribute to societal growth and wellbeing. 
+In order to unroll just compensation for each individuals personal circumstances, graph methods (utilising [OkeuvoLite](https://github.com/Grand-Axe/Okeuvo-Lite) to create a universally unique hash for any concept) will be used to identify gaps and evaluate how various factors contribute to societal growth and wellbeing. <br />Everyone from the innovator to the end user is a node in the the graph resulting in a self reinforcing loop of greater wellbeing generating greater incentive to innovate. The community is always in the loop and thoroughly informed; it evaluates the idea then, if it has value and passes safety requirements, tests it. Here's a pictorial overview;
+
+![Invent-innovate cycle](Images/cycle.png?raw=true)
 
 The strength of this approach will be showcased in areas where skills and opportunity are currently thrown away; for example, strongly identifying women as needing compensation (through weightings, invention and innovation) for their heavy contributions to societal growth and capacity (through childbirth, nurturing and work gaps, as well as having to undergo consequential bodily and mental changes).<br />Women are just one example; compensating for similar factors in all affected areas would not only increase the talent pool with those who have been shut out, but will also create its own rich ecosystem of invention and innovation - a win-win.
 
@@ -98,7 +105,7 @@ That's liberty.
 
 ### Privacy
 
-Infrastructure ownership will give individuals and communities better control to the access points of their privacy and dignity. Humankind is the only creature with a developed sense of privacy, so invasion (or legalised theft) of privacy not only makes them do unpaid work against their will; but most importantly, reduces a persons humanity and moves them closer to the rank of animals.
+Infrastructure ownership will give individuals and communities better control to the access points of their privacy and dignity. It isn't taught in schools but, humankind is the only creature with a developed sense of privacy.<br />Therefore, the invasion (or legalised theft) of privacy not only makes them do unpaid work against their will (slavery); but most importantly, reduces a persons humanity and moves them closer to the rank of animals, thus providing for a recursive cycle of ever intensifying weakening of human dignity and priviledge.
 
 'Ever heard of the private life of an antelope?
 
