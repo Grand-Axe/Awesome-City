@@ -23,7 +23,10 @@ Awesome City is part of an ecosystem to deliver Artificial General Intelligence 
 
 <br />Awesome City is an open source concept for an ideal, sustainable, self-organising community based on the built in trust of the blockchain, and which finances itself by harnessing AI to identify and build businesses around its talented people. It re-invents the city as an integrated, modular machine for generating wellbeing underlined by AI<br />This repo  is based on the [LushCoin white paper](https://github.com/Grand-Axe/LushCoin/raw/master/Docs/LushCoinWhitePaper.pdf) as well as being a living addendum to it - **read the LushCoin white paper if you haven't done so yet**. This repo will serve as a tool for consensus on AI governance, it will also be a directory of foundational projects, costing/analysis, papers and academic collaboration.
 
-Awesome City's knowledge base will be organised as an ontology based on the [meaning grid](https://github.com/Grand-Axe/Okeuvo-Lite/), with each item indexed by its OkeuvoLite hash.
+### Code Contents
+Awesome City's knowledge base will be organised as an ontological graph of connected entities and their concerns based on the [meaning grid](https://github.com/Grand-Axe/Okeuvo-Lite/), with each item indexed by its OkeuvoLite hash.
+
+This repository will also hold code (derived from [OkeuvoLite](https://github.com/Grand-Axe/Okeuvo-Lite/)) for AI analysis. 
 
 ### Sustainable profit
 
